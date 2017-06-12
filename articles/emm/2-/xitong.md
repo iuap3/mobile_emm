@@ -271,13 +271,7 @@ EMM Agent地址：用于配置外部EMM Agent服务器访问地址
  <td>每隔多少秒获取设备已安装的App，并反馈给Mobem</td>
 
  </tr>
-
- <tr>
-
- <td></td>
-
- </tr>
-
+ 
 </table>
 
 
