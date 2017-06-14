@@ -118,7 +118,7 @@ EMM Agent地址：用于配置外部EMM Agent服务器访问地址
 
  <td>Android</td>
 
- <td cospan="2">备注</td>
+ <td colspan="2">备注</td>
 
  </tr>
 
@@ -145,8 +145,6 @@ EMM Agent地址：用于配置外部EMM Agent服务器访问地址
  <td>√</td>
 
  <td>直接让用户从远程服务器（应用商店：AppStore、GooglePlay、用友应用商店）下载</td>
-
- <td></td>
 
  </tr>
 
@@ -271,7 +269,8 @@ EMM Agent地址：用于配置外部EMM Agent服务器访问地址
  <td>每隔多少秒获取设备已安装的App，并反馈给Mobem</td>
 
  </tr>
- 
+
+
 </table>
 
 
