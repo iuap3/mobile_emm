@@ -7,7 +7,8 @@
     * [应用场景](articles/emm/1-/miaoshu.md)
     * [产品形态](articles/emm/1-/xingtai.md)
     * [按模块划分](articles/emm/1-/huafen.md)
-* [企业移动管理](articles/emm/2-/ydgl.md)
+* [企业移动管理]
+    * [移动管理](articles/emm/2-/ydgl.md)
     * [用户中心](articles/emm/2-/yhzx.md)
     * [权限管理](articles/emm/2-/quanxian.md)
     * [设备管理](articles/emm/2-/shebei.md)
