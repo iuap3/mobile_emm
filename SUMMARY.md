@@ -2,7 +2,7 @@
 
 * [产品介绍](articles/emm/0/zero.md)
     * [产品概述](articles/emm/1-/gaishu.md)
-    * [产品优势](articles/emm/0/产品优势.md)
+    * [产品优势](articles/emm/0/advantages.md)
     * [应用场景](articles/emm/1-/miaoshu.md)
     * [产品形态](articles/emm/1-/xingtai.md)
     * [按模块划分](articles/emm/1-/huafen.md)
