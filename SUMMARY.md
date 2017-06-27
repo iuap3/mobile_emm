@@ -1,6 +1,5 @@
-# Summary
+# Table of content
 
-* [Introduction](README.md)
 * [产品介绍](articles/emm/0/zero.md)
     * [产品概述](articles/emm/1-/gaishu.md)
     * [产品优势](articles/emm/0/产品优势.md)
