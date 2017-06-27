@@ -18,7 +18,7 @@
     * [日志管理](articles/emm/2-/rizhi.md)
     * [系统管理](articles/emm/2-/xitong.md)
     * [基本档案管理](articles/emm/2-/dangan.md)
-* [用户自助管理](articles/emm/3-/.md)
+* [用户自助管理](articles/emm/3-/)
     * [用户自助登录](articles/emm/3-/zizhu.md)
     * [用户中心](articles/emm/3-/yonghu.md)
     * [自助管理](articles/emm/3-/zzgl.md)
